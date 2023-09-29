@@ -42,6 +42,7 @@ To get started with this project, follow these steps:
 
 3. Open the index.html file in your web browser to use the Stopwatch.
 
-Usage
+## Usage
+
 You can use this Stopwatch for various timing needs, such as tracking time for tasks, games, or any other time-sensitive activities. The stopwatch provides easy-to-use controls for starting, stopping, and resetting the timer.   
    
